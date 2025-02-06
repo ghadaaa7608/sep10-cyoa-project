@@ -1,5 +1,5 @@
 # The Odyssey CYOA Project
-## [Stay at the palace](fight.md)
+## Stay at the palace
 ---
 There are men at the palace who were trying to seduce Penelope while you were gone!
 
