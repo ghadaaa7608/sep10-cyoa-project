@@ -6,6 +6,6 @@
 [Lixin](https://github.com/lixinh5541)
 [Ghaydaa](https://github.com/ghaydaaa7608)
 
-[Our plan](
+[Our plan](plan.png)
 
 
